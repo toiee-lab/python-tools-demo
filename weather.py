@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = [
+#   "requests==2.31.0",
+#   "rich==13.7.1",
+# ]
+# ///
 """
 Weather display script using OpenWeatherMap API
 Beautiful weather information with rich library

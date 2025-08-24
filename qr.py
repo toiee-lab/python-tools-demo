@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = [
+#   "qrcode[pil]==7.4.2",
+#   "rich==13.7.1",
+# ]
+# ///
 """
 🎯 QRコード生成スクリプト
 テキストからQRコードを生成し、画像ファイルとして保存します

@@ -1,5 +1,0 @@
-rich==13.7.1
-requests==2.31.0
-qrcode[pil]==7.4.2
-beautifulsoup4==4.12.3
-feedparser==6.0.11
